@@ -17,5 +17,7 @@ Print the test images in Resources folder, or find other ways to display them in
 
 Program will detect the qr-codes and bar-codes currently displayed infront of the camera, mark them with a rectangle and read the contents of the qr code or bar code. Decoded qr code or bar code will be written and displayed above the purple rectangle. 
 
+The program is able to detect and read multiple qr codes and/or bar codes at once. 
+
 
 
